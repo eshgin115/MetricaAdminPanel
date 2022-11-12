@@ -7,11 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\Apps\" />
-    <Folder Include="Controllers\Authentication\" />
-    <Folder Include="Controllers\Pages\" />
-    <Folder Include="Controllers\UIkit\" />
-    <Folder Include="wwwroot\" />
+    <Folder Include="Authentication\" />
+    <Folder Include="UIkit\" />
+    <Folder Include="Pages\" />
+    <Folder Include="Apps\" />
   </ItemGroup>
 
 </Project>
