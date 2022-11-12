@@ -8,7 +8,7 @@ namespace MatricAdminPanel
             builder.Services.AddMvc();
             var app = builder.Build();
             app.UseStaticFiles();
-            app.MapControllerRoute(name: "default", pattern: "{controller}/{action}");
+            app.MapControllerRoute(name: "default", pattern: "{controller=Analytics}/{action=index}");
 
 
 
