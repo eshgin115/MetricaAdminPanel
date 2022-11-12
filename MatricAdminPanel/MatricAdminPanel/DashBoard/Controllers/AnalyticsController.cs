@@ -2,7 +2,7 @@
 
 namespace MatricAdminPanel.DashBoard.Controllers
 {
-    public class AnalyticsController : Controller
+    public class AnalyticsController: Controller
     {
         public ActionResult Index()
         {
