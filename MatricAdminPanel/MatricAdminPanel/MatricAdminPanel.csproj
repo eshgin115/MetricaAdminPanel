@@ -10,7 +10,6 @@
     <Folder Include="Authentication\" />
     <Folder Include="UIkit\" />
     <Folder Include="Pages\" />
-    <Folder Include="Apps\" />
   </ItemGroup>
 
 </Project>
