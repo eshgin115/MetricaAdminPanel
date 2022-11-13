@@ -32,6 +32,14 @@ namespace MatricAdminPanel.Pages.Controllers
         {
             return View();
         }
+        public ActionResult FAQs()
+        {
+            return View();
+        }
+        public ActionResult Gallery()
+        {
+            return View();
+        }
 
     }
 }
