@@ -24,5 +24,9 @@ namespace MatricAdminPanel.Pages.Controllers
         {
             return View();
         }
+        public ActionResult Pricing()
+        {
+            return View();
+        }
     }
 }
