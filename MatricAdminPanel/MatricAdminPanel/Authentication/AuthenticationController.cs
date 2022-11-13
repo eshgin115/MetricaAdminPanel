@@ -32,9 +32,18 @@ namespace MatricAdminPanel.Authentication
         {
             return View();
         }
-        //public IActionResult Loginalt()
-        //{
-        //    return View();
-        //}
+        public IActionResult LockScreenalt()
+        {
+            return View();
+        }
+        public IActionResult Error404()
+        {
+            return View();
+        }
+
+        public IActionResult Error404alt()
+        {
+            return View();
+        }
     }
 }
