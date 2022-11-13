@@ -45,5 +45,13 @@ namespace MatricAdminPanel.Authentication
         {
             return View();
         }
+        public IActionResult Error505()
+        {
+            return View();
+        }
+        public IActionResult Error505alt()
+        {
+            return View();
+        }
     }
 }
