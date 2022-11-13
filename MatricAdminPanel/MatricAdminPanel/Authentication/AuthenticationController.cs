@@ -12,5 +12,29 @@ namespace MatricAdminPanel.Authentication
         {
             return View();
         }
+        public IActionResult Register()
+        {
+            return View();
+        }
+        //public IActionResult Loginalt()
+        //{
+        //    return View();
+        //}
+        //public IActionResult Loginalt()
+        //{
+        //    return View();
+        //}
+        //public IActionResult Loginalt()
+        //{
+        //    return View();
+        //}
+        //public IActionResult Loginalt()
+        //{
+        //    return View();
+        //}
+        //public IActionResult Loginalt()
+        //{
+        //    return View();
+        //}
     }
 }
