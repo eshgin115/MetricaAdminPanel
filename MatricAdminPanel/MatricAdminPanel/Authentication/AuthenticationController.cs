@@ -20,18 +20,18 @@ namespace MatricAdminPanel.Authentication
         {
             return View();
         }
-        //public IActionResult Loginalt()
-        //{
-        //    return View();
-        //}
-        //public IActionResult Loginalt()
-        //{
-        //    return View();
-        //}
-        //public IActionResult Loginalt()
-        //{
-        //    return View();
-        //}
+        public IActionResult RePassword()
+        {
+            return View();
+        }
+        public IActionResult RePasswordalt()
+        {
+            return View();
+        }
+        public IActionResult LockScreen()
+        {
+            return View();
+        }
         //public IActionResult Loginalt()
         //{
         //    return View();
