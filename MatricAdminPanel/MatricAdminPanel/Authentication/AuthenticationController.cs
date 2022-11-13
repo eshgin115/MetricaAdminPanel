@@ -8,5 +8,9 @@ namespace MatricAdminPanel.Authentication
         {
             return View();
         }
+        public IActionResult Loginalt()
+        {
+            return View();
+        }
     }
 }
