@@ -16,9 +16,9 @@ namespace MatricAdminPanel.Pages.Controllers
         {
             return View();
         }
-        //public ActionResult Profile()
-        //{
-        //    return View();
-        //}
+        public ActionResult Treeview()
+        {
+            return View();
+        }
     }
 }
