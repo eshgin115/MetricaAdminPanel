@@ -28,5 +28,10 @@ namespace MatricAdminPanel.Pages.Controllers
         {
             return View();
         }
+        public ActionResult Blogs()
+        {
+            return View();
+        }
+
     }
 }
