@@ -8,14 +8,14 @@ namespace MatricAdminPanel.Pages.Controllers
         {
             return View();
         }
-        //public ActionResult Tour()
-        //{
-        //    return View();
-        //}
-        //public ActionResult Profile()
-        //{
-        //    return View();
-        //}
+        public ActionResult Tour()
+        {
+            return View();
+        }
+        public ActionResult Timeline()
+        {
+            return View();
+        }
         //public ActionResult Profile()
         //{
         //    return View();
